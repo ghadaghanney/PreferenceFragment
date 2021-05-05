@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fragment_App</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="lists">
+        <item>Item One</item>
+        <item>Item Two</item>
+        <item>Item Three</item>
+        <item>Item Four</item>
+        <item>Item Five</item>
+
+    </string-array>
+</resources>
